@@ -10,7 +10,7 @@ class JenkinsJavaProject
 				//Scanner in = new Scanner(System.in);
 				//x = in.nextInt();
 				//y = in.nextInt();
-				w = 10,
+				w = 10;
 				x = 12;
 				y = 14;
 				z = w + x + y;
